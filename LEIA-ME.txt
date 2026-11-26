@@ -1,0 +1,14 @@
+TOTEM IDEALE CAMPOS · Meeting de lançamento
+
+Abrir no totem
+1. Copie esta pasta inteira para o computador do totem (index.html + img + fonts).
+2. Abra o index.html no Chrome ou no Edge em modo quiosque. Exemplo:
+   chrome --kiosk --disable-pinch --overscroll-history-navigation=0 "C:\totem\index.html"
+3. Funciona offline. Após 60 s sem toque, volta para a tela inicial.
+
+Ajustar a posição dos pinos (lazer, planta e mapa)
+- Abra index.html?editar=1, arraste os pinos e copie as coordenadas que aparecem no painel.
+- Cole os valores nas listas LAZER, APTO e POIS no fim do index.html.
+
+Tela cheia sem teclado
+- Arraste o dedo da borda esquerda da tela até o meio e toque em "Tela cheia". O mesmo gesto oferece "Sair".

@@ -1,0 +1,3 @@
+Coloque aqui os arquivos da fonte Lufga (OTF):
+Lufga-Light.otf, Lufga-Regular.otf, Lufga-Medium.otf, Lufga-Bold.otf, Lufga-ExtraBold.otf
+Se a Lufga já estiver instalada no computador do totem, a página usa a fonte instalada.
